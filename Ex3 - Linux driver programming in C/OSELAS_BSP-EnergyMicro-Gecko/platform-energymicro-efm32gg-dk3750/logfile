@@ -1,0 +1,57 @@
+# vim: set fdm=marker fdl=1:
+{{{ 2018-11-06T12:25:02+0100 /opt/ex3/ptxdist-2013/lib/ptxdist-2013.07.1/bin/ptxdist select configs/ptxconfig
+{{{ 2018-11-06T12:25:02+0100 /opt/ex3/ptxdist-2013/lib/ptxdist-2013.07.1/bin/ptxdist select configs/ptxconfig
+
+}}} 2018-11-06T12:25:02+0100 /opt/ex3/ptxdist-2013/lib/ptxdist-2013.07.1/bin/ptxdist select configs/ptxconfig; (exit value: 0)
+
+
+
+{{{ 2018-11-06T12:26:00+0100 /opt/ex3/ptxdist-2013/lib/ptxdist-2013.07.1/bin/ptxdist platform configs/platform-energymicro-efm32-dk3750/platformconfig
+
+}}} 2018-11-06T12:26:00+0100 /opt/ex3/ptxdist-2013/lib/ptxdist-2013.07.1/bin/ptxdist platform configs/platform-energymicro-efm32-dk3750/platformconfig; (exit value: 1)
+
+
+
+{{{ 2018-11-06T12:26:25+0100 /opt/ex3/ptxdist-2013/lib/ptxdist-2013.07.1/bin/ptxdist platform configs/platform-energymicro-efm32gg-dk3750/platformconfig
+{{{ 2018-11-06T12:26:26+0100 /opt/ex3/ptxdist-2013/lib/ptxdist-2013.07.1/bin/ptxdist platform configs/platform-energymicro-efm32gg-dk3750/platformconfig
+
+}}} 2018-11-06T12:26:26+0100 /opt/ex3/ptxdist-2013/lib/ptxdist-2013.07.1/bin/ptxdist platform configs/platform-energymicro-efm32gg-dk3750/platformconfig; (exit value: 0)
+
+
+
+{{{ 2018-11-06T13:49:14+0100 /opt/ex3/ptxdist-2013/lib/ptxdist-2013.07.1/bin/ptxdist toolchain /opt/ex3
+
+}}} 2018-11-06T13:49:14+0100 /opt/ex3/ptxdist-2013/lib/ptxdist-2013.07.1/bin/ptxdist toolchain /opt/ex3; (exit value: 1)
+
+
+
+{{{ 2018-11-06T13:55:59+0100 /opt/ex3/ptxdist-2013/lib/ptxdist-2013.07.1/bin/ptxdist kernelconfig
+
+}}} 2018-11-06T13:55:59+0100 /opt/ex3/ptxdist-2013/lib/ptxdist-2013.07.1/bin/ptxdist kernelconfig; (exit value: 1)
+
+
+
+{{{ 2018-11-06T13:56:38+0100 /opt/ex3/ptxdist-2013/lib/ptxdist-2013.07.1/bin/ptxdist menuconfig
+
+}}} 2018-11-06T13:56:38+0100 /opt/ex3/ptxdist-2013/lib/ptxdist-2013.07.1/bin/ptxdist menuconfig; (exit value: 1)
+
+
+
+{{{ 2018-11-07T10:30:43+0100 /opt/ex3/ptxdist-2013/lib/ptxdist-2013.07.1/bin/ptxdist kernelconfig
+
+}}} 2018-11-07T10:30:43+0100 /opt/ex3/ptxdist-2013/lib/ptxdist-2013.07.1/bin/ptxdist kernelconfig; (exit value: 1)
+
+
+
+{{{ 2018-11-07T10:33:31+0100 /opt/ex3/ptxdist-2013/lib/ptxdist-2013.07.1/bin/ptxdist images
+
+}}} 2018-11-07T10:33:31+0100 /opt/ex3/ptxdist-2013/lib/ptxdist-2013.07.1/bin/ptxdist images; (exit value: 1)
+
+
+
+{{{ 2018-11-07T10:35:16+0100 /opt/ex3/ptxdist-2013/lib/ptxdist-2013.07.1/bin/ptxdist toolchain /opt/ex3/OSELAS.Toolchain-2012.12.0/arm-cortexm3-uclinuxeabi/gcc-4.7.2-uclibc-0.9.33.2-binutils-2.22-kernel-3.6-sanitized
+
+}}} 2018-11-07T10:35:16+0100 /opt/ex3/ptxdist-2013/lib/ptxdist-2013.07.1/bin/ptxdist toolchain /opt/ex3/OSELAS.Toolchain-2012.12.0/arm-cortexm3-uclinuxeabi/gcc-4.7.2-uclibc-0.9.33.2-binutils-2.22-kernel-3.6-sanitized; (exit value: 1)
+
+
+
